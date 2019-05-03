@@ -1,0 +1,6 @@
+Sami Al-Qusus
+CSCI 375 Contributions
+March 26, 2018
+
+1) Met with Team on Monday (March 26) to go over work done to date and complete up coming document.
+2) Did document overview and project update then edited Architectural Design section and completed undone sections like, outline of system and subsystems, supporting data structures, discussion of all relevant security and reliability issues. 

@@ -1,0 +1,11 @@
+Sami Al-Qusus
+CSCI375 
+April 2, 2018
+
+Contribution:
+
+Because only Pete was able to help with implementing the website. I tried to split the project between us, but his code was way off. 
+So I decided that it was faster to do the whole thing from scratch by myself. But I will sit with everyone this Friday and test the final project together.
+So far Search, View, List Ideas are completed. Almost done testing and fixing Create. Need four hours to hopefully complete the Edit page. Now that I am sure we are on track I will have pete and maybe caleb, if he can remember a few thing from last year, to help out with finishing edit and testing the whole project. 
+
+

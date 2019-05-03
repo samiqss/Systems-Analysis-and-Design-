@@ -1,0 +1,12 @@
+Sami Al-Qusus
+CSCI 375 Contributions
+March 19, 2018
+
+1) Met with Team on Monday (March 9) to complete rest of document and go over entity relation diagram.
+2) Typed up document overview and project update.
+3) Gave Tony suggestions and fixes for entity relation diagram.
+4) Typed up the overview of the data model, description of all components and preliminary description of model when represented in the real physcial model.
+5) made the presentation
+
+Note: Although I typed up most of the docuemnt, I communicated extensively with Tony and other members over the content of the document and hence, did not neccessary come up with the sections I typed all by myself and give credit to other members as well. 
+

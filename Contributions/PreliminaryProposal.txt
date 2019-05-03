@@ -1,0 +1,13 @@
+Sami Al-Qusus
+CSCI 375 Contributions
+Jan 22, 2018
+
+
+1) Wrote up Proposal document after feedback from members.
+
+2) Set up meetings, presentation, and assigned work to members.
+
+3) Updated Team Roles.
+
+4) Did a Prototype for the interface.
+

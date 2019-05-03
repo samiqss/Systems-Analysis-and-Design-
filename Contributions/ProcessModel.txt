@@ -1,0 +1,12 @@
+Sami Al-Qusus
+CSCI 375 Contributions
+March 12, 2018
+
+1) Met with team on Friday March 9th to brain storm and come up with notes for the document.
+2) Typed up document overview, project update section. 
+3) organized teams notes and typed up process model section (edited and included preliminary description done by caleb and DFD created by Ben)
+3) Prepared the presentation.
+4) edited and updated the prototype on mybalsamiq.
+5) Edited and updatd the software and testing plan.
+
+
